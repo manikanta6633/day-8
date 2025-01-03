@@ -1,0 +1,158 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+    
+}
+.two{
+    display: flex;
+    margin-bottom: -140px;
+}
+.first{
+    width: 50%;
+    margin: 100px;
+    height: 62vh;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px #00000080;
+    
+    
+    
+}
+.image1 img{
+    width: 100%;
+    border-radius: 15px 15px 0px 0px;
+
+}
+.second{
+    padding-top: 10px;
+    margin-left: 10px;
+    padding-bottom: 25px;
+}
+.first button{
+    padding: 10px;
+    color: #000000;
+    font-weight: 500;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+   
+}
+.third{
+    float: right;
+    padding-right: 20px;
+    font-size: 20px;
+}
+.name{
+    text-align: center;
+    padding-top: 40px;
+}
+.fourth{
+    width: 40%;
+    height: 50vh;
+    border-radius: 15px;
+    box-shadow:0px 0px 10px #00000080 ;
+    margin: 100px;
+    
+}
+.fourth img{
+    width: 100%;
+    height: 200px;
+    border-radius: 15px 15px 0px 0px;
+    padding-bottom: 20px;
+}
+.sixth{
+    margin-left: 10px;
+}
+.seven{
+    width: 40%;
+    height: 60vh;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px #00000080;
+    margin: 100px;
+    
+}
+.seven img{
+    width: 100%;
+    border-radius: 15px 15px 0px 0px;
+    padding-bottom: 20px;
+}
+.nine{
+    margin-left: 20px;
+    padding-bottom: 30px;
+    
+
+}
+.seven button{
+    padding-top: 5px;
+    margin-left: 10px;
+    font-weight: 500;
+    height: 30px;
+
+}
+.ten{
+    float: right;
+    margin-right: 20px;
+}
+.popular{
+    width: 30%;
+    height: 70vh;
+    margin: 100px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px #00000080;
+    
+}
+.popular h2{
+    border-bottom: 2px solid #454545;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    
+
+}
+.post1{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    border-bottom: #454545 solid;
+    padding-bottom: 15px;
+}
+.post1 img{
+    width: 80px;
+    height: 80px;
+    border-radius: 4px;
+    margin-right: 15px;
+}
+.content h3{
+    margin: 5px;
+}
+.last{
+    display: flex;
+    margin-bottom: -190px;
+}
+.row{
+    width: 40%;
+    height: 30vh;
+    margin: 100px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px #00000080;
+    word-spacing: 10px;
+    line-height: 1.5;
+    
+    
+    
+}
+
+.footer button{
+    background-color: black;
+    padding-bottom: 50px;
+    margin-right: 50px;
+}
+.row span{
+    background: lightgray;
+    color: black;
+    margin-left: 10px;
+}
+.row h2{
+    
+    margin: 10px;
+}
